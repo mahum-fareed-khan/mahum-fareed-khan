@@ -5,5 +5,5 @@
  📫 How to reach me -><br />
  Gmail-
  tresmoonshore@gmail.com/
- mahum.sadaf@gmail.com,<br />linkden-www.linkedin.com/in/mahum-fareed-khan-805338220. ...
+ mahum.sadaf@gmail.com,<br />linkden-www.linkedin.com/in/mahum-fareed-khan
 
