@@ -77,7 +77,6 @@ I'm eager to contribute to projects in <strong>data analytics</strong> and <stro
 
 <h2>🌐 Connect with Me</h2>
 <ul>
-  <li><a href="https://www.linkedin.com/in/mahum-fareed-khan/">LinkedIn</a></li>
   <li><a href="#">Portfolio Website</a> (Coming Soon!)</li>
   <li><a href="mahum.sadaf@gmail.com">My Email</a></li>
 </ul>
