@@ -1,9 +1,7 @@
 <h1 align= Center>Hi Mahum Here👋</h1><br />
-<h3>I am a Data analyst.</h3>
-<p>As a diligent and enthusiastic individual, I aspire to leverage my analytical skills 
-	and passion for data to contribute effectively as a Data Analyst. </p>
- 📫 How to reach me -><br />
- Gmail-
- tresmoonshore@gmail.com/
- mahum.sadaf@gmail.com,<br />linkden-www.linkedin.com/in/mahum-fareed-khan
+<p> 💻 About Me
+Hi there! 👋 I'm Mahum Fareed Khan, a Data Analyst with a passion for uncovering insights, solving problems, and creating visually compelling data stories. I specialize in data visualization, statistical analysis, and predictive modeling using tools like Python, Excel, SQL, and Power BI.</p>
+<p> 🎓 Recent graduate in Electronics and Telecommunication with a strong foundation in data science and programming. Currently, I'm:
 
+💡 Exploring: Advanced data analytics techniques and UI/UX integration for dashboard designs.
+🎯 Learning: New ways to enhance decision-making through data insights.</p>
