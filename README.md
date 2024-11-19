@@ -59,7 +59,7 @@ Recent graduate in <strong>Electronics and Telecommunication</strong> with a str
 <h2>🌟 Featured Projects</h2>
 <ul>
   <li><a href="https://github.com/mahum-fareed-khan/Gearbox-fault-detection-">Gearbox Fault Prediction</a>: Diagnosed faults in wind turbines using SCADA data and predictive models.</li>
-  <li><a href="https://github.com/mahum-fareed-khan/Airline-Fair-Prediction-">Airline Fair Prediction</a>: Airline Fare Prediction uses regression analysis to predict ticket prices based on various flight factors</li>
+  <li><a href="https://github.com/mahum-fareed-khan/Airline-Fair-Prediction-">Airline Fair Prediction</a>: Predicts airline fare prices using regression analysis and flight data.</li>
   <li><a href="https://github.com/mahum-fareed-khan/Data-Analytics-Project-Recap-For-Social-Buzz-">Data analysis for Social Buzz</a>:Social buzz analysis tracks sentiment, trends, and engagement across social media to measure public perception.</li>
   <li><a href="https://github.com/mahum-fareed-khan/Adventure-work-report-power-bi">Sales Dashboard</a>: Built a dynamic dashboard to track and visualize sales performance.</li>
 </ul>
