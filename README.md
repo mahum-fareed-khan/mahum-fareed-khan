@@ -1,7 +1,48 @@
-<h1 align= Center>Hi Mahum Here👋</h1><br />
-<p> 💻 About Me
-Hi there! 👋 I'm Mahum Fareed Khan, a Data Analyst with a passion for uncovering insights, solving problems, and creating visually compelling data stories. I specialize in data visualization, statistical analysis, and predictive modeling using tools like Python, Excel, SQL, and Power BI.</p>
-<p> 🎓 Recent graduate in Electronics and Telecommunication with a strong foundation in data science and programming. Currently, I'm:
+<h1>💻 About Me</h1>
+<p>
+Hi there! 👋 I'm <strong>Mahum Fareed Khan</strong>, a <strong>Data Analyst</strong> with a passion for uncovering insights, solving problems, and creating visually compelling data stories. 
+I specialize in <strong>data visualization</strong>, <strong>statistical analysis</strong>, and <strong>predictive modeling</strong> using tools like Python, Advance-Excel, SQL, and Power BI.
+</p>
 
-💡 Exploring: Advanced data analytics techniques and UI/UX integration for dashboard designs.
-🎯 Learning: New ways to enhance decision-making through data insights.</p>
+<h2>🎓 My Background</h2>
+<p>
+Recent graduate in <strong>Electronics and Telecommunication</strong> with a strong foundation in <strong>data science and programming</strong>. Currently, I'm:
+<ul>
+  <li><strong>💡 Exploring:</strong> Advanced data analytics techniques and UI/UX integration for dashboard designs.</li>
+  <li><strong>🎯 Learning:</strong> New ways to enhance decision-making through data insights.</li>
+</ul>
+</p>
+
+<h2>📊 What I Do</h2>
+<ul>
+  <li>📈 Analyze and interpret complex datasets to provide actionable insights.</li>
+  <li>🛠️ Build interactive dashboards and visualizations using tools like Tableau and Power BI.</li>
+  <li>🤖 Apply machine learning algorithms for predictive analytics.</li>
+  <li>🧠 Transform raw data into meaningful stories that drive decision-making.</li>
+</ul>
+
+<h2>🌟 Featured Projects</h2>
+<ul>
+  <li><a href="#">Gearbox Fault Prediction</a>: Diagnosed faults in wind turbines using SCADA data and predictive models.</li>
+  <li><a href="#">Donut Shop Web Design</a>: Designed and developed a vibrant website with a focus on UX/UI principles.</li>
+  <li><a href="#">Sales Dashboard</a>: Built a dynamic dashboard to track and visualize sales performance.</li>
+</ul>
+
+<h2>📚 Certifications & Skills</h2>
+<ul>
+  <li>AI in Healthcare – Associate (In progress)</li>
+  <li>Python, SQL, Tableau, Power BI, Java</li>
+  <li>Machine Learning, Data Cleaning, ETL Pipelines</li>
+</ul>
+
+<h2>💼 Open to Opportunities</h2>
+<p>
+I'm eager to contribute to projects in <strong>data analytics</strong> and <strong>UI/UX design</strong>. Let's collaborate on projects that make data impactful!
+</p>
+
+<h2>🌐 Connect with Me</h2>
+<ul>
+  <li><a href="https://www.linkedin.com/in/mahum-fareed-khan/">LinkedIn</a></li>
+  <li><a href="#">Portfolio Website</a> (Coming Soon!)</li>
+  <li><a href="tresmoonshore@gmail.com">Email</a></li>
+</ul>
