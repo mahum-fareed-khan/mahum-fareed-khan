@@ -1,6 +1,6 @@
 <h1>💻 About Me</h1>
 <p>
-Hi there! 👋 I'm <strong>Mahum Fareed Khan</strong>, a <strong>Data Analyst</strong> with a passion for uncovering insights, solving problems, and creating visually compelling data stories. 
+Hi there! 👋 I'm <strong>Mahum Fareed Khan</strong>, a <strong>Software engineer</strong> with a passion for uncovering insights, solving problems, and creating visually compelling data stories. 
 I specialize in <strong>data visualization</strong>, <strong>statistical analysis</strong>, and <strong>predictive modeling</strong> using tools like Python, Advance-Excel, SQL, and Power BI.
 </p>
 
