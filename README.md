@@ -66,7 +66,8 @@ Recent graduate in <strong>Electronics and Telecommunication</strong> with a str
 
 <h2>📚 Certifications & Skills</h2>
 <ul>
-  <li>AI in Healthcare – Associate (In progress)</li>
+  <li>Machine learning specialization</li>
+  <li>AI in Healthcare</li>
   <li>Python, SQL, Tableau, Power BI, Java</li>
   <li>Machine Learning, Data Cleaning, ETL Pipelines</li>
 </ul>
