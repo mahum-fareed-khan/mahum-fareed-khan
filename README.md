@@ -59,7 +59,7 @@ Recent graduate in <strong>Electronics and Telecommunication</strong> with a str
 <h2>🌟 Featured Projects</h2>
 <ul>
   <li><a href="https://github.com/mahum-fareed-khan/Gearbox-fault-detection-">Gearbox Fault Prediction</a>: Diagnosed faults in wind turbines using SCADA data and predictive models.</li>
-  <li><a href="https://github.com/mahum-fareed-khan/Airline-Fair-Prediction-">Brain Tumor classification and detection</a>: CNN model for brain tumor detection and classification from MRI.</li>
+  <li><a href="https://github.com/mahum-fareed-khan/CNN-Based-Detection-and-Multi-class-Classification-of-Brain-Tumors-in-MRI-scans.">Brain Tumor classification and detection</a>: CNN model for brain tumor detection and classification from MRI.</li>
   <li><a href="https://github.com/mahum-fareed-khan/House-price-prediction-/tree/main">House Fair Prediction</a>: Predicts House prices using regression analysis and Housing data.</li>
   <li><a href="https://github.com/mahum-fareed-khan/Adventure-work-report-power-bi">Sales Dashboard</a>: Built a dynamic dashboard to track and visualize sales performance.</li>
 </ul>
