@@ -8,8 +8,23 @@ I specialize in <strong>data visualization</strong>, <strong>statistical analysi
 <p>
 Recent graduate in <strong>Electronics and Telecommunication</strong> with a strong foundation in <strong>data science and programming</strong>. Currently, I'm:
 <ul>
-  <li><strong>💡 Exploring:</strong> Advanced data analytics techniques and UI/UX integration for dashboard designs.</li>
-  <li><strong>🎯 Learning:</strong> New ways to enhance decision-making through data insights.</li>
+  💡 Exploring: Advanced data analytics techniques and UI/UX integration for dashboard designs.
+
+🎯 Working on: Image processing and computer vision projects using machine learning and deep learning models.
+
+📊 Leveraging: Machine learning algorithms to analyze large datasets and uncover actionable insights for predictive analytics and automation.
+
+💻 Developing: End-to-end solutions integrating data science models with UI/UX designs for seamless user experiences.
+
+🚀 Optimizing: Real-time data pipelines for efficient data processing and visualization using cutting-edge tools.
+
+🔍 Focusing on: Research and development in the application of image processing techniques for automation and enhancement.
+
+📈 Enhancing: Data-driven decision-making by building interactive dashboards using Power BI, Tableau, or custom web applications.
+
+⚙️ Applying: Deep learning and neural networks for advanced data modeling and predictive maintenance in industrial applications.
+
+🌐 Working on: Cloud-based solutions using AWS services (S3, Athena, QuickSight) for scalable data storage and visualization.
 </ul>
 </p>
 
