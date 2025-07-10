@@ -96,4 +96,5 @@ I'm eager to contribute to projects in <strong>data analytics</strong> and <stro
 <ul>
   <li><a href="https://medium.com/@mahumfareed389">Medium blog</a></li>
   <li><a href="mahum.sadaf@gmail.com">My Email</a></li>
+  <li><a href="https://www.notion.so/Hey-there-I-am-Mahum-1eff9e5672dd8069996ce4ac9d992a9b?source=copy_link">Portfolio Website</a></li>
 </ul>
